@@ -1,0 +1,59 @@
+{
+      "first_page_uri": "/2010-04-01/Accounts/AC7f6ba0474de60a39ed260a5481408a2f/Messages.json?DateSent%3E=2020-06-02T17%3A00%3A00-07%3A00&PageSize=50&Page=0",
+      "end": 1,
+      "previous_page_uri": null,
+      "messages": [{
+            "body": "Sent from your Twilio trial account - Thanks for the message. Configure your number's SMS URL to change this message.Reply HELP for help.Reply STOP to unsubscribe.Msg&Data rates may apply.",
+            "num_segments": "2",
+            "direction": "outbound-reply",
+            "from": "+41798070471",
+            "date_updated": "Wed, 03 Jun 2020 11:44:36 +0000",
+            "price": "-0.13800",
+            "error_message": null,
+            "uri": "/2010-04-01/Accounts/AC7f6ba0474de60a39ed260a5481408a2f/Messages/SM954396218e828ca30147b54074db9e12.json",
+            "account_sid": "AC7f6ba0474de60a39ed260a5481408a2f",
+            "num_media": "0",
+            "to": "+41794277033",
+            "date_created": "Wed, 03 Jun 2020 11:44:35 +0000",
+            "status": "delivered",
+            "sid": "SM954396218e828ca30147b54074db9e12",
+            "date_sent": "Wed, 03 Jun 2020 11:44:35 +0000",
+            "messaging_service_sid": null,
+            "error_code": null,
+            "price_unit": "USD",
+            "api_version": "2010-04-01",
+            "subresource_uris": {
+                  "media": "/2010-04-01/Accounts/AC7f6ba0474de60a39ed260a5481408a2f/Messages/SM954396218e828ca30147b54074db9e12/Media.json",
+                  "feedback": "/2010-04-01/Accounts/AC7f6ba0474de60a39ed260a5481408a2f/Messages/SM954396218e828ca30147b54074db9e12/Feedback.json"
+            }
+      }, {
+            "body": "Test1",
+            "num_segments": "1",
+            "direction": "inbound",
+            "from": "+41794277033",
+            "date_updated": "Wed, 03 Jun 2020 11:44:35 +0000",
+            "price": "-0.00750",
+            "error_message": null,
+            "uri": "/2010-04-01/Accounts/AC7f6ba0474de60a39ed260a5481408a2f/Messages/SMe0093c465fed0a0e9ed311d02392ac0c.json",
+            "account_sid": "AC7f6ba0474de60a39ed260a5481408a2f",
+            "num_media": "0",
+            "to": "+41798070471",
+            "date_created": "Wed, 03 Jun 2020 11:44:34 +0000",
+            "status": "received",
+            "sid": "SMe0093c465fed0a0e9ed311d02392ac0c",
+            "date_sent": "Wed, 03 Jun 2020 11:44:35 +0000",
+            "messaging_service_sid": null,
+            "error_code": null,
+            "price_unit": "USD",
+            "api_version": "2010-04-01",
+            "subresource_uris": {
+                  "media": "/2010-04-01/Accounts/AC7f6ba0474de60a39ed260a5481408a2f/Messages/SMe0093c465fed0a0e9ed311d02392ac0c/Media.json",
+                  "feedback": "/2010-04-01/Accounts/AC7f6ba0474de60a39ed260a5481408a2f/Messages/SMe0093c465fed0a0e9ed311d02392ac0c/Feedback.json"
+            }
+      }],
+      "uri": "/2010-04-01/Accounts/AC7f6ba0474de60a39ed260a5481408a2f/Messages.json?DateSent%3E=2020-06-02T17%3A00%3A00-07%3A00&PageSize=50&Page=0",
+      "page_size": 50,
+      "start": 0,
+      "next_page_uri": null,
+      "page": 0
+}
