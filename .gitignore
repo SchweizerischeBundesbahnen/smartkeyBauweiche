@@ -34,3 +34,4 @@ config.js
 
 /src/Credentials/credentials.h
 /src/Credentials/credentials_lora1.cpp
+/thingsboard/widgets/bwm/bwm.js
